@@ -16,7 +16,7 @@ Run `java -jar parser.jar -f [filename] -d [dirname]`.
 1. Prepare tree-structured data with `dataset.py`
     - Run `$ python dataset.py [dir]`
 2. Train and evaluate model with `train.py`
-    - See `$ python main.py`
+    - Run `$ python main.py`
 
 ## requirement
 Java 1.8,
