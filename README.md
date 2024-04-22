@@ -19,6 +19,6 @@ Run `java -jar parser.jar -f [filename] -d [dirname]`.
     - See `$ python main.py`
 
 ## requirement
-Java 1.8
-pytorch 1.11.0
+Java 1.8,
+pytorch 1.11.0,
 tensorflow-gpu==1.10.1
